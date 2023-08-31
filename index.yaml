@@ -3,7 +3,7 @@ entries:
   jx-qs1:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-08-29T14:37:37.825049975Z"
+    created: "2023-08-31T12:07:41.943429503Z"
     description: A Helm chart for Kubernetes
     digest: 38ecb783d89fea1880278425b062181bf9fe6fe0fe95edcfb259c7f1a163e4b8
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -16,7 +16,7 @@ entries:
   jx-qs2:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-08-29T14:37:37.82612297Z"
+    created: "2023-08-31T12:07:41.945114135Z"
     description: A Helm chart for Kubernetes
     digest: 80ddaaf41f4146aed46c7f49710eb01a92fb57bd61ae060c9077c59b4387bd95
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -26,4 +26,17 @@ entries:
     urls:
     - jx-qs2-0.0.1.tgz
     version: 0.0.1
-generated: "2023-08-29T14:37:37.823999554Z"
+  jx-qs3:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2023-08-31T12:07:41.946015714Z"
+    description: A Helm chart for Kubernetes
+    digest: f7d818879ee970c4bb7c4a080589dee02384614e0c60d962f78eae127eeca06b
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: jx-qs3
+    sources:
+    - https://github.com/Connection-Telecom/jx-qs3.git
+    urls:
+    - jx-qs3-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-08-31T12:07:41.942347921Z"
