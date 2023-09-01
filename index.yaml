@@ -3,7 +3,7 @@ entries:
   jx-qs1:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-09-01T08:19:20.003232041Z"
+    created: "2023-09-01T12:15:33.782911728Z"
     description: A Helm chart for Kubernetes
     digest: 38ecb783d89fea1880278425b062181bf9fe6fe0fe95edcfb259c7f1a163e4b8
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -16,7 +16,7 @@ entries:
   jx-qs2:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-09-01T08:19:20.004090991Z"
+    created: "2023-09-01T12:15:33.784135592Z"
     description: A Helm chart for Kubernetes
     digest: 80ddaaf41f4146aed46c7f49710eb01a92fb57bd61ae060c9077c59b4387bd95
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -29,7 +29,7 @@ entries:
   jx-qs3:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-09-01T08:19:20.00524908Z"
+    created: "2023-09-01T12:15:33.785089114Z"
     description: A Helm chart for Kubernetes
     digest: f7d818879ee970c4bb7c4a080589dee02384614e0c60d962f78eae127eeca06b
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -41,8 +41,20 @@ entries:
     version: 0.0.1
   telviva-github-issues:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2023-09-01T12:15:33.787961002Z"
+    description: A Helm chart for Kubernetes
+    digest: 00df6e56927ed6355300c1ae268af1f42983b4caff90678ca614cd78ad1bec22
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: telviva-github-issues
+    sources:
+    - https://github.com/Connection-Telecom/telviva-github-issues.git
+    urls:
+    - telviva-github-issues-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
     appVersion: 0.0.2
-    created: "2023-09-01T08:19:20.007627165Z"
+    created: "2023-09-01T12:15:33.78705564Z"
     description: A Helm chart for Kubernetes
     digest: d0d6b93ab4858042b735e4124a19b5bbea0f13c08c7f0fb7bfae8b850cdc2a62
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -54,7 +66,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2023-09-01T08:19:20.006457062Z"
+    created: "2023-09-01T12:15:33.786008383Z"
     description: A Helm chart for Kubernetes
     digest: 2082b2144004105c95086c2cbda40ac3a9c3352a97fe6de6a4eb764326e1437f
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -64,4 +76,4 @@ entries:
     urls:
     - telviva-github-issues-0.0.1.tgz
     version: 0.0.1
-generated: "2023-09-01T08:19:20.001784756Z"
+generated: "2023-09-01T12:15:33.781476155Z"
